@@ -10,9 +10,6 @@ It includes input validation, hCaptcha, and integration with **Web3Forms API** f
 - hCaptcha integration
 - Web3Forms API for form submission
 
-## Demo
-[Live Demo](https://alimirza817.github.io/contact-form/)
-
 ---
 
 ## Screenshots  
